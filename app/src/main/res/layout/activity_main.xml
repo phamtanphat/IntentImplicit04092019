@@ -20,7 +20,7 @@
        android:elevation="10dp"
        android:background="?selectableItemBackground"
        android:src="@drawable/ic_public_black_24dp"
-       android:id="@+id/buttonUrl"
+       android:id="@+id/buttonWeb"
        android:scaleType="centerCrop"
        android:layout_width="50dp"
        android:layout_height="50dp"/>
